@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792692428 source:d:\studyspace\dsa\baitap1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
